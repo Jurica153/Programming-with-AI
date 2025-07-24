@@ -12,8 +12,8 @@ Many beginners give up due to a lack of clear guidance or accessible explanation
 Personal motivation: As someone who has experienced these challenges firsthand, I want to help others learn programming more efficiently with the help of an AI assistant that “thinks with them.”
 This topic is important because it combines education, technology, and artificial intelligence — three key areas shaping our future.
 
-
 ## How is it used?
+
 The primary users are:
 - Beginner programmers
 - Students
@@ -37,11 +37,13 @@ AI techniques include:
 Optionally, a demo web app can be created using APIs like OpenAI Codex/GPT to showcase interactive code assistance.
 
 ## Challenges
+
 The AI may not always return fully accurate answers — there's a risk users may rely on incorrect code.
 This tool does not replace traditional learning — it serves as support, not a substitute.
 Over-reliance on AI could hinder deep understanding if not balanced with manual practice.
 
 ## What next?
+
 In the future, CodeMate could:
 - Adapt the explanation style based on the user’s experience level (AI tutor)
 - Support more programming languages (Python, JavaScript, C++, etc.)
@@ -49,6 +51,7 @@ In the future, CodeMate could:
 - Learn from user interactions to improve personalized feedback
 
 ## Acknowledgments
+
 This project is built upon:
 - OpenAI GPT models - https://platform.openai.com/docs/models
 - The Stack Overflow community - https://stackoverflow.blog/community/
