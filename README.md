@@ -50,7 +50,7 @@ In the future, CodeMate could:
 
 ## Acknowledgments
 This project is built upon:
-- OpenAI GPT models
+- OpenAI GPT models https://platform.openai.com/docs/models
 - The Stack Overflow community
 - Open-source projects from GitHub
 - Inspired by tools like GitHub Copilot, ChatGPT, and Replit Ghostwriter
