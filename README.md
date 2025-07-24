@@ -1,7 +1,7 @@
 # Programming with AI
 Building AI course project
 
-## Summary
+## CodeMate
 
 CodeMate is an intelligent AI assistant designed to help programmers (especially beginners) write, understand, and debug code. In short, it's a tool that allows users to input natural language queries and receive code suggestions, explanations, or even fully functional solutions in return.
 
