@@ -1,2 +1,2 @@
-# Programming-with-AI
+# Programming with AI
 Building AI course project
